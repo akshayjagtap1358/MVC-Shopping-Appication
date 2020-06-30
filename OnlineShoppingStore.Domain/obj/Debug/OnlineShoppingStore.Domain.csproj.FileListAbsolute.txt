@@ -1,0 +1,13 @@
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll.config
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.pdb
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\WebActivatorEx.dll
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.csproj.CopyComplete
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.dll
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.pdb
+C:\Users\akjagtap\source\repos\Online Shopping Store\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.csprojAssemblyReference.cache

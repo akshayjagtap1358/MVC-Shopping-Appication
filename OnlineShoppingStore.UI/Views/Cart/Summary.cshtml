@@ -1,0 +1,14 @@
+﻿@model OnlineShoppingStore.Domain.Entities.Cart
+
+    <div class="float-right">
+        <b>Your Cart: </b>
+        @Model.CartLines.Sum(s => s.Quantity) item(s),
+        @Model.CalculateTotalSum().ToString("c")
+
+        @Html.ActionLink("Checkout", "Index", "Cart",
+        new { returnUrl = Request.Url.PathAndQuery },
+        new { @class = "btn btn-default navbar-btn" })
+    </div>
+<div class="navbar-text">
+    
+</div>

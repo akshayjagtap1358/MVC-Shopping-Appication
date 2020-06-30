@@ -1,0 +1,17 @@
+﻿@using OnlineShoppingStore.UI.HTMLHelperClasses
+@model OnlineShoppingStore.UI.Models.PagingViewModel
+
+@{
+    ViewBag.Title = "ProductsListByCategory";
+}
+
+<div>
+    @foreach (var item in Model.Products)
+    {
+        @Html.Partial("ProductDetails", item);
+    }
+</div>
+<div class="btn btn-group p-0">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("ProductsListByCategory", new { page = x, category = Model.CurrentCategory }))
+</div>
+
