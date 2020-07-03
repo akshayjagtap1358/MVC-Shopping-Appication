@@ -3,4 +3,4 @@ A simple online shopping application with a combination of different of MVC conc
 
 Easy to understand concepts for begginers as well as intermediates.
 
-Note: Run the shared script on sql in order to access the database in application
+Note: Import the shared database in sql in order to access the database in application
